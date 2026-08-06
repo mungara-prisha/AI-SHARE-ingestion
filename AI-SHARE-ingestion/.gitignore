@@ -1,0 +1,16 @@
+~/.cache/huggingface/
+*.bin
+*.safetensors
+
+data/pdfs/
+
+extractor/outputs/
+
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+.DS_Store
+
+data/ground_truth/
