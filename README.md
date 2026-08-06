@@ -13,6 +13,8 @@ How to scan for certain variables in a long paper? Chunk by chunk? Looking in on
 Tasks: Prisha will automate question-level variables including question extraction, question topic, concept, and response information.
 Shireen will automate survey-level variables including experiment type, treatment, treatment modality, and respondent information.
 
+File updates: new code for question extraction. has yet to be fully tested and refined.
+
 
 
 
