@@ -17,5 +17,11 @@ Shireen will automate survey-level variables including experiment type, treatmen
 File updates: new code for question extraction. has yet to be fully tested and refined.
 
 
+# 9/21/2026:
 
+Shireen:
+Added code prompts for Treatment, Treatment Modality, and Treatment Arms/Factors.
+- Need to add one-shot examples for all prompts -> then send final prompts in Slack gc for team to review.
+- Need to test using anvil, check if model needs changing.
+- Revisit text extraction logic (8-bit quantization etc) since Anvil allows for higher bandwidth.
 
