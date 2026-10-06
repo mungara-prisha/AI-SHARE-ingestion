@@ -25,3 +25,8 @@ Added code prompts for Treatment, Treatment Modality, and Treatment Arms/Factors
 - Need to test using anvil, check if model needs changing.
 - Revisit text extraction logic (8-bit quantization etc) since Anvil allows for higher bandwidth.
 
+# 10/05/2026
+Prisha: 
+Added prompts for Relevance Check + Tech Scope + Provenance
+- Still needs to be extensively tested with multiple pdfs
+
